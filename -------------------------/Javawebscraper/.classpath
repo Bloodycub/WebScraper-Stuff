@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="D:/Dowenload/jsoup-1.16.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Maven/apache-maven-3.9.3/lib/httpclient-4.5.14.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Maven/apache-maven-3.9.3/lib/httpcore-4.4.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-api-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-api-4.10.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-chrome-driver-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-chrome-driver-4.10.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-chromium-driver-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-chromium-driver-4.10.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-devtools-v85-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-devtools-v85-4.10.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-devtools-v112-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-devtools-v112-4.10.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-devtools-v113-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-devtools-v113-4.10.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-devtools-v114-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-devtools-v114-4.10.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-edge-driver-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-edge-driver-4.10.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-firefox-driver-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-firefox-driver-4.10.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-http-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-http-4.10.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-ie-driver-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-ie-driver-4.10.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-java-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-java-4.10.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-json-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-json-4.10.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-manager-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-manager-4.10.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-remote-driver-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-remote-driver-4.10.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-safari-driver-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-safari-driver-4.10.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-support-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/Selenium/selenium-support-4.10.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pirue/Documents/GIthub/Crawler/Javawebscraper/guava-32.1.1-jre.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
